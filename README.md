@@ -22,8 +22,8 @@ An automated DCF analysis tool that extracts and processes financial data from S
 7. Employ NLP for finding financial attributes from Excel 10-K
 
 ## Reference
-Aswath Damodaran's Valuation Course in NYU - https://www.youtube.com/watch?v=LYGYvN5LUbA&list=PLUkh9m2BorqmtIQKZ1jv3uuZDM_bQIICg
-Reasoning for capitalizing Operating Lease - https://pages.stern.nyu.edu/~adamodar/pdfiles/papers/oplev.pdf
-Reasoning for capitalizing R&D - https://pages.stern.nyu.edu/~adamodar/pdfiles/papers/R_D.pdf
-Country Default Spreads and Risk Premiums - https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/ctryprem.html
-Average metrics for different Industries - https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/Betas.html
+1. Aswath Damodaran's Valuation Course in NYU - https://www.youtube.com/watch?v=LYGYvN5LUbA&list=PLUkh9m2BorqmtIQKZ1jv3uuZDM_bQIICg
+2. Reasoning for capitalizing Operating Lease - https://pages.stern.nyu.edu/~adamodar/pdfiles/papers/oplev.pdf
+3. Reasoning for capitalizing R&D - https://pages.stern.nyu.edu/~adamodar/pdfiles/papers/R_D.pdf
+4. Country Default Spreads and Risk Premiums - https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/ctryprem.html
+5. Average metrics for different Industries - https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/Betas.html
